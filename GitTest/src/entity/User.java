@@ -1,6 +1,6 @@
 package entity;
 
 public class User {
-private int user_id;
+private int user_age;
 
 }
